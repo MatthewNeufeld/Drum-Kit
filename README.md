@@ -1,6 +1,6 @@
 # Drum-Kit
 
-Given an HTMl and CSS template, I wrote the Javascript code to make a web application that simulates a drum-kit. The user can press certain keyboard keys to make a specific drum sound.
+Given an HTML and CSS template, I wrote the Javascript code to make a web application that simulates a drum-kit. The user can press certain keyboard keys to make a specific drum sound.
 
 # What I Learned
 
